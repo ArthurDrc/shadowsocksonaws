@@ -1,8 +1,10 @@
 {
     "server":"0.0.0.0",
+    #this means allow connections from every ip
      "server_port":replace this with whatever port you want(better 1000-9000),
      "local_port":replace this with whatever port you want(better 1000-9000),
      "password":"replace this with password you want",
      "timeout":600,
      "method":"aes-256-cfb"
+    #secure
 }
